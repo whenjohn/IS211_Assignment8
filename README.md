@@ -8,3 +8,7 @@
 - Score was once stored as a list attribute of Game class. Now score is in the Player class
 - Added in a proxy class for Game, called TimedGameProxy that will extend Game with a timer element
 - Added a factory class to create Game vs Timed Game
+
+
+# TO Run
+ >>>> python pig_game2.py
